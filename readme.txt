@@ -18,5 +18,3 @@ Models
 
 We use seven models in our submission, many of which are adversarially trained models. The models can be downloaded in http://ml.cs.tsinghua.edu.cn/~yinpeng/nips17/nontargeted/models.zip.
 --------------------------------------------------------------
-
-Codes and other resources can be found in the supplementary material.
